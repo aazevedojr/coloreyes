@@ -1,6 +1,6 @@
 # ColorEyes
 
-[http://www.iseergb.com](ColorEyes)
+[www.iseergb.com](ColorEyes)
 
 ### Color blindness testing platform built over a week as a group project at Dev Bootcamp coding school.
 
