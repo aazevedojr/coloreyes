@@ -1,3 +1,10 @@
+# ColorEyes
+
+[www.iseergb.com](ColorEyes)
+
+### Color blindness testing platform built over a week as a group project at Dev Bootcamp coding school.
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebookincubator/create-react-app).
 
 Below you will find some information on how to perform common tasks.<br>
