@@ -1,6 +1,6 @@
 # ColorEyes
 
-[www.iseergb.com](ColorEyes)
+This website is [live](www.iseergb.com) on Heroku.
 
 ### Color blindness testing platform built over a week as a group project at Dev Bootcamp coding school.
 
